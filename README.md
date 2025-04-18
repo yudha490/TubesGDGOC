@@ -14,7 +14,7 @@ Jika ingin menggunakan data yang sudah terisi untuk mempermudah pengetessan
 pakai akun ini untuk login:
 
 yudhapratama8944@gmail.com
-1234567
+pass 1234567
 
 Untuk cara pemakaian:
 1. bisa menjalankan lewat vercel atau mendownload manual jika di local, dan saat sudah di download bisa menjalankan npm run dev
